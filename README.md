@@ -1,6 +1,6 @@
 # Hello, I'm Jack 👋
 
-I'm a web developer from the UK.
+I'm a software developer from the UK.
 
 I also enjoy exploring how computers and technology work, and writing about it on my [blog](https://jacksmith.xyz).
 
